@@ -733,11 +733,11 @@ design rules under a new name.
 <contactref element="DOWNPAD" pad="P$ACTIVE"/>
 <contactref element="DOWN" pad="1"/>
 <wire x1="13.97" y1="59.69" x2="16.51" y2="57.15" width="0.1524" layer="16"/>
-<wire x1="16.51" y1="57.15" x2="16.51" y2="41.91" width="0.1524" layer="16"/>
-<wire x1="16.51" y1="41.91" x2="13.97" y2="39.37" width="0.1524" layer="16"/>
-<via x="13.97" y="39.37" extent="1-16" drill="0.35"/>
-<wire x1="13.97" y1="39.37" x2="13.97" y2="37.1316" width="0.1524" layer="1"/>
-<wire x1="13.97" y1="37.1316" x2="14.0611" y2="37.0405" width="0.1524" layer="1"/>
+<wire x1="16.51" y1="57.15" x2="16.51" y2="40.64" width="0.1524" layer="16"/>
+<wire x1="16.51" y1="40.64" x2="15.24" y2="39.37" width="0.1524" layer="16"/>
+<via x="15.24" y="39.37" extent="1-16" drill="0.35"/>
+<wire x1="15.24" y1="39.37" x2="15.24" y2="38.2194" width="0.1524" layer="1"/>
+<wire x1="14.0611" y1="37.0405" x2="15.24" y2="38.2194" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$3">
 <contactref element="RIGHTPAD" pad="P$ACTIVE"/>
