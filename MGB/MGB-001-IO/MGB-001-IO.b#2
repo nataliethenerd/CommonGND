@@ -1997,7 +1997,7 @@ design rules under a new name.</description>
 </polygon>
 <contactref element="CN3" pad="4"/>
 <via x="19" y="26" extent="1-16" drill="0.35"/>
-<via x="28" y="3" extent="1-16" drill="0.35"/>
+<wire x1="22.75" y1="5.865" x2="28.055" y2="15.01" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="SELECT">
 <contactref element="SELECT" pad="P$ACTIVE"/>
